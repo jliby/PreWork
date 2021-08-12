@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://media.giphy.com/media/s8MyiMtE1Psx02H5kq/source.mov)
+![new](https://media.giphy.com/media/s8MyiMtE1Psx02H5kq/giphy.gif)
 GIF created with [LiceCap](https://giphy.com/).
 
 ## Notes
